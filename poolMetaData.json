@@ -1,7 +1,7 @@
 cat > poolMetaData.json << EOF
 {
 "name": "DARPA Syndicate",
-"description": "Decentralized Applied Research Protocols Algorithms (DARPA).  DARPA Syndicate is an advocate, promoter and marketer of the power of blockchains.  Stake with US.",
+"description": "Decentralized Applied Research Protocols Algorithms (DARPA).  DARPA Syndicate is an advocate, promoter and marketer of the power of blockchains.  Stake with us.",
 "ticker": "DARPA",
 "homepage": "https://DARPAsyndicate.org"
 }
